@@ -1,3 +1,4 @@
+# REG NO: 212224040155
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
@@ -83,6 +84,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 ```
 
 ## OUTPUT
+![Screenshot 2025-04-28 231633](https://github.com/user-attachments/assets/6411ea4a-579d-4cbc-b5c7-034fb968ea9f)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -101,6 +103,7 @@ exit(EXIT_SUCCESS);
 
 ```
 ## OUTPUT
+![Screenshot 2025-04-28 231644](https://github.com/user-attachments/assets/c5d0d75a-5dd8-43fd-b2b5-c8181a2520d5)
 
 
 # RESULT:
